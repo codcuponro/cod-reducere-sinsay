@@ -1,0 +1,26 @@
+{
+  "name": "cod-reducere-sinsay",
+  "version": "1.0.0",
+  "description": "O colecție de coduri de reducere Sinsay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cod reducere",
+    "voucher",
+    "cupon",
+    "cod promotional",
+    "sinsay",
+    "reduceri",
+    "cuponescu"
+  ],
+  "author": "Cuponescu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianCuponescu/cod-reducere-sinsay.git"
+  },
+  "homepage": "https://www.cuponescu.ro"
+}
+
